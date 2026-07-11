@@ -1,10 +1,6 @@
 # 🔐 AWS Cloud Security Monitoring & Auto-Remediation Lab
 
 <p align="center">
-  <img src="architecture/architecture-diagram.png" alt="Architecture Diagram" width="100%">
-</p>
-
-<p align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-Free%20Tier-orange)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
