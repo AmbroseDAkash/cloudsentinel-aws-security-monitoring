@@ -74,25 +74,25 @@ The project follows **AWS security best practices** including **least privilege 
 # 📂 Project Structure
 
 ```
-AWS-Cloud-Security-Monitoring-Lab/
+cloudsentinel-aws-security-monitoring/
 │
 ├── README.md
-├── architecture/
-│   └── architecture-diagram.png
+├── LICENSE
+├── .gitignore
 │
-├── screenshots/
-├── lambda/
-│   └── AutoRemediateS3.py
+├── architecture/
+│   ├── README.md
+│   └── architecture-diagram.png
 │
 ├── docs/
 │   ├── setup-guide.md
-│   ├── troubleshooting.md
-│   └── architecture.md
+│   └── incident-report.md
 │
-└── LICENSE
+├── lambda/
+│   └── AutoRemediateS3.py
+│
+└── screenshots/
 ```
-
----
 
 # 🚀 Implementation Steps
 
